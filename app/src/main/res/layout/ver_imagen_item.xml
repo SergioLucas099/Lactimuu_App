@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#F9F6F8">
+
+        <TextView
+            android:id="@+id/txt_nom_img_admin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="8dp"
+            android:layout_marginBottom="8dp"
+            android:text="Nombre"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <ImageButton
+            android:id="@+id/ver_imagen_admin"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="#F9F6F8"/>
+
+        <ImageView
+            android:id="@+id/borrar_img_2"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="#F9F6F8"
+            android:src="@drawable/ic_baseline_delete_24_2"/>
+
+        <TextView
+            android:id="@+id/txt_dato_img"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"/>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

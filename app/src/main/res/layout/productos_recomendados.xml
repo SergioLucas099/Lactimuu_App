@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="3dp"
+    android:layout_margin="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/rec_img"
+            android:layout_width="280dp"
+            android:layout_height="190dp"
+            android:scaleType="centerCrop"
+            app:riv_corner_radius="14dp" />
+
+        <TextView
+            android:id="@+id/rec_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nombre del producto"
+            android:textSize="25sp"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/alice"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/rec_pre"
+            android:layout_width="242dp"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:text="$2500"
+            android:textSize="19sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/d"
+            android:layout_width="0dp"
+            android:layout_height="0dp"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:id="@+id/est_pro_dis"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:text="descripcion"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="15dp">
+
+            <ImageView
+                android:id="@+id/maspro"
+                android:layout_width="54dp"
+                android:layout_height="54dp"
+                android:src="@drawable/ic_baseline_add_circle_outline_24_blue"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/relativeLayout"
+                android:layout_marginLeft="6dp"/>
+
+            <TextView
+                android:id="@+id/contadorpro"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1"
+                android:fontFamily="@font/alice"
+                android:layout_marginTop="10dp"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:layout_marginRight="7dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/add_item"
+                app:layout_constraintTop_toTopOf="@+id/relativeLayout"
+                android:layout_marginLeft="4dp"/>
+
+            <ImageView
+                android:id="@+id/menospro"
+                android:layout_width="54dp"
+                android:layout_height="54dp"
+                android:src="@drawable/ic_baseline_remove_circle_outline_24_blue"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/quantity"
+                app:layout_constraintTop_toTopOf="@+id/relativeLayout" />
+
+            <ImageView
+                android:id="@+id/carrito_agregar"
+                android:layout_width="54dp"
+                android:layout_height="54dp"
+                android:layout_marginLeft="60dp"
+                android:src="@drawable/ic_baseline_shopping_cart_24_blue"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/quantity"
+                app:layout_constraintTop_toTopOf="@+id/relativeLayout" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="vertical">
+
+           <com.github.florent37.shapeofview.shapes.BubbleView
+               android:layout_width="410dp"
+               android:layout_height="200dp"
+               android:layout_gravity="center"
+               android:layout_marginTop="55dp"
+               app:shape_bubble_arrowHeight="20dp"
+               app:shape_bubble_arrowWidth="10dp"
+               app:shape_bubble_arrowPosition="bottom"
+               app:shape_bubble_borderRadius="20dp">
+
+               <!-- YOUR CONTENT -->
+
+               <View
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:background="@color/colorPrimary" />
+
+               <TextView
+                   android:id="@+id/textView4"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:layout_marginTop="20dp"
+                   android:fontFamily="@font/alice"
+                   android:gravity="center_horizontal"
+                   android:padding="10dp"
+                   android:text="Valor Total: $0"
+                   android:textAlignment="center"
+                   android:textColor="@color/white"
+                   android:textSize="28sp"
+                   android:textStyle="bold" />
+
+               <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:orientation="horizontal"
+                   android:layout_marginTop="80dp"
+                   android:gravity="center">
+
+                   <Spinner
+                       android:id="@+id/Mesa"
+                       android:layout_width="174dp"
+                       android:layout_height="50dp"
+                       android:layout_marginLeft="10dp"
+                       android:entries="@array/Mesa" />
+
+                   <androidx.appcompat.widget.AppCompatButton
+                       android:id="@+id/boton_comprar"
+                       android:layout_width="164dp"
+                       android:layout_height="51dp"
+                       android:layout_marginTop="10dp"
+                       android:layout_marginBottom="16dp"
+                       android:background="@drawable/btn_bg_detailed"
+                       android:backgroundTint="@color/white"
+                       android:text="Comprar Ahora"
+                       android:layout_marginLeft="30dp"
+                       android:textColor="@color/colorPrimary"
+                       android:textStyle="bold" />
+
+                   <TextView
+                       android:id="@+id/textView2"
+                       android:layout_width="0dp"
+                       android:layout_height="0dp"
+                       android:text="" />
+
+               </LinearLayout>
+
+           </com.github.florent37.shapeofview.shapes.BubbleView>
+
+           <androidx.recyclerview.widget.RecyclerView
+               android:id="@+id/rv"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_marginLeft="7dp"
+               android:layout_marginRight="7dp"
+               android:layout_marginTop="10dp"/>
+
+       </LinearLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

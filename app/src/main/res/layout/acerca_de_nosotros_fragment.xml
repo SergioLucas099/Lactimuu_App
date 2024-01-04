@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        <com.github.florent37.shapeofview.shapes.DiagonalView
+            android:layout_width="410dp"
+            android:layout_height="200dp"
+            android:elevation="4dp"
+            app:shape_diagonal_angle="10"
+            app:shape_diagonal_direction="left"
+            app:shape_diagonal_position="bottom"
+            android:layout_marginTop="55dp">
+
+                <!-- YOUR CONTENT -->
+
+                <View
+                    android:layout_width="500dp"
+                    android:layout_height="match_parent"
+                    android:background="@color/colorPrimary" />
+
+                <TextView
+                    android:id="@+id/textViewNameBookingDetail"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Acerca de la aplicación"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:layout_margin="30dp"
+                    android:gravity="center_horizontal" />
+
+        </com.github.florent37.shapeofview.shapes.DiagonalView>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="16sp"
+                    android:layout_marginTop="100dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="20dp"
+                            android:text="Lactimuu App es una aplicación desarrollada en Android Studio por estudiantes de Ingeniería de Sistemas de la Fundación Universitaria de
+                          San Gil UNISANGIL sede Chiquinquirá como modalidad de grado"
+                            android:textSize="20sp"
+                            android:textStyle="bold"
+                            android:textAlignment="center"
+                            android:gravity="center_horizontal" />
+
+                </LinearLayout>
+
+        </LinearLayout>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:src="@drawable/acerca_de"
+            android:layout_gravity="center|top"
+            app:civ_border_width="5dp"
+            app:civ_border_color="#F0F0F0"
+            android:layout_marginTop="175dp"
+            android:layout_marginRight="210dp"/>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lactimuu_prueba.com.optic.lactimuu_prueba.Imagenes_Promocionales"
+    android:orientation="vertical">
+
+    <com.github.florent37.shapeofview.shapes.ArcView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:elevation="4dp"
+        app:shape_arc_cropDirection="outside"
+        app:shape_arc_height="20dp"
+        app:shape_arc_position="bottom">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/colorPrimary" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Imagenes Promocionales"
+            android:textSize="25dp"
+            android:layout_marginBottom="75dp"
+            android:textColor="@color/white"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"/>
+
+        <ImageView
+            android:id="@+id/cimg"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/boton_agregar_blanco"
+            android:layout_gravity="center|top"
+            app:civ_border_width="5dp"
+            app:civ_border_color="#F0F0F0"
+            android:layout_marginTop="80dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Agregar Imagen"
+            android:textSize="20dp"
+            android:textColor="@color/white"
+            android:layout_marginTop="75dp"
+            android:layout_gravity="center" />
+
+        <ImageView
+            android:id="@+id/imgAtras_IPG"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="left|top"
+            android:src="@drawable/ic_back"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="15dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </com.github.florent37.shapeofview.shapes.ArcView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="10dp">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_img_promo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+
+
+    </LinearLayout>
+
+</LinearLayout>

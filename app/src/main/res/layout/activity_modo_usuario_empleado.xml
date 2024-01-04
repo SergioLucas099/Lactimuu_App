@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PanelAdministrador">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_modo_empleado"
+        app:layout_constraintVertical_bias="0.0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        app:titleTextColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:title="Lactimuu App" />
+
+    <TextView
+        android:id="@+id/textViewTituloAdminEmpleado"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Control de Pedidos"
+        android:textColor="@color/black"
+        android:layout_marginTop="40dp"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar_modo_empleado" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="170dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewTituloAdminEmpleado">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageViewMesa1"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:onClick="mesa1"
+                android:src="@drawable/mesa1"
+                app:layout_constraintEnd_toStartOf="@+id/imageViewVerMesa2"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/pm1"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:src="@drawable/circulo"
+                app:layout_constraintStart_toEndOf="@+id/imageViewMesa1"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/pm2"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:src="@drawable/circulo"
+                app:layout_constraintStart_toEndOf="@+id/imageViewVerMesa2"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/pm3"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginTop="176dp"
+                android:src="@drawable/circulo"
+                app:layout_constraintStart_toEndOf="@+id/imageViewMesa3"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/pm4"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginTop="176dp"
+                android:src="@drawable/circulo"
+                app:layout_constraintStart_toEndOf="@+id/imageViewMesa4"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/pm5"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginTop="356dp"
+                android:src="@drawable/circulo"
+                app:layout_constraintStart_toEndOf="@+id/imageViewmesa5"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/pm6"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginTop="356dp"
+                android:src="@drawable/circulo"
+                app:layout_constraintStart_toEndOf="@+id/imageViewmesa6"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/pmpl"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginTop="540dp"
+                android:src="@drawable/circulo"
+                app:layout_constraintStart_toEndOf="@+id/imageViewParaLlevar"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/textViewMesa1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:onClick="mesa1"
+                android:text="Mesa 1"
+                app:layout_constraintEnd_toStartOf="@+id/textViewMesa2"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageViewMesa1"/>
+
+            <ImageView
+                android:id="@+id/imageViewVerMesa2"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:onClick="mesa2"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/imageViewMesa1"
+                app:layout_constraintTop_toTopOf="parent"
+                android:src="@drawable/mesa2" />
+
+            <TextView
+                android:id="@+id/textViewMesa2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:onClick="mesa2"
+                android:text="Mesa 2"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/textViewMesa1"
+                app:layout_constraintTop_toBottomOf="@+id/imageViewVerMesa2"/>
+
+            <ImageView
+                android:id="@+id/imageViewMesa3"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="40dp"
+                android:onClick="mesa3"
+                android:src="@drawable/mesa3"
+                app:layout_constraintEnd_toStartOf="@+id/imageViewMesa4"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textViewMesa1" />
+
+            <TextView
+                android:id="@+id/textViewMesa3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:onClick="mesa3"
+                android:text="Mesa 3"
+                app:layout_constraintEnd_toStartOf="@+id/textViewMesa4"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageViewMesa3"/>
+
+            <ImageView
+                android:id="@+id/imageViewMesa4"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="40dp"
+                android:onClick="mesa4"
+                android:src="@drawable/mesa4"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/imageViewMesa3"
+                app:layout_constraintTop_toBottomOf="@+id/textViewMesa2" />
+
+            <TextView
+                android:id="@+id/textViewMesa4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:onClick="mesa4"
+                android:text="Mesa 4"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/textViewMesa3"
+                app:layout_constraintTop_toBottomOf="@+id/imageViewMesa4"/>
+
+            <ImageView
+                android:id="@+id/imageViewmesa5"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="40dp"
+                android:onClick="mesa5"
+                android:src="@drawable/mesa5"
+                app:layout_constraintEnd_toStartOf="@+id/imageViewMesa4"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textViewMesa4" />
+
+            <TextView
+                android:id="@+id/textViewmesa5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:onClick="mesa5"
+                android:text="Mesa 5"
+                app:layout_constraintEnd_toStartOf="@+id/textViewMesa4"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageViewmesa5"/>
+
+            <ImageView
+                android:id="@+id/imageViewmesa6"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="40dp"
+                android:onClick="mesa6"
+                android:src="@drawable/mesa6"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/imageViewMesa3"
+                app:layout_constraintTop_toBottomOf="@+id/textViewMesa4" />
+
+            <TextView
+                android:id="@+id/textViewmesa6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:onClick="mesa6"
+                android:text="Mesa 6"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/imageViewMesa3"
+                app:layout_constraintTop_toBottomOf="@+id/imageViewmesa6"/>
+
+            <ImageView
+                android:id="@+id/imageViewParaLlevar"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="40dp"
+                android:onClick="pl"
+                android:src="@drawable/para_llevar"
+                app:layout_constraintEnd_toStartOf="@+id/imageViewMesa4"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textViewmesa5" />
+
+            <TextView
+                android:id="@+id/textViewParaLlevar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:onClick="pl"
+                android:text="Para Llevar"
+                app:layout_constraintEnd_toStartOf="@+id/textViewMesa4"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageViewParaLlevar"/>
+
+            <ImageView
+                android:id="@+id/imageView_salir_empleado"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="40dp"
+                android:onClick="mu"
+                android:src="@drawable/manual"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/imageViewMesa3"
+                app:layout_constraintTop_toBottomOf="@+id/textViewmesa6" />
+
+            <TextView
+                android:id="@+id/textView_cerrar_sesion_empleado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:onClick="salir_empleado"
+                android:text="Manual Usuario"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/imageViewMesa3"
+                app:layout_constraintTop_toBottomOf="@+id/imageView_salir_empleado"/>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

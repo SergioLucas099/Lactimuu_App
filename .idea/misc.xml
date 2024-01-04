@@ -1,0 +1,580 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2890625" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.2890625" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_imagenes_promocionales.xml" value="0.27291666666666664" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_productos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_imagen_promocional.xml" value="0.16" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_producto.xml" value="0.27291666666666664" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_usuario.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_detalles.xml" value="0.25" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_imagenes_promocionales.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_administrador.xml" value="0.33" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_sesion.xml" value="0.25" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_sesion_admin_empleado.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_manual_usuario_rol_cliente.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_modo_usuario_empleado.xml" value="0.33" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_para_llevar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_prueba.xml" value="0.2462962962962963" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_recuperar_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_subir_imagenes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_imagenes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_img_clima.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_productos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_sugerencias.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_usuarios.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_view_all.xml" value="0.26871794871794874" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_whatsapp.xml" value="0.2611111111111111" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/carrito_compras.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/categoria_items.xml" value="0.33" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/drawer_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/drawer_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/fragment_game.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/fragment_start.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/imagenes_promocionales_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/item_table.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/letras.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/main_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/manualusuario.xml" value="0.25" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/mesa1_item.xml" value="0.2611111111111111" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/mesa5_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/mesa6_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/my_cart_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/para_llevar_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/productos_rec_clima_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/productos_recomendados.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/sugerencias_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/ver_imagen_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/ver_img_clima_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/ver_productos_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/ver_sugerencias_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/ver_usuarios_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/view_all_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Descargas/Codigos Android Studio/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/menu/drawer_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/V3/Lactimuu_Prueba/app/src/main/res/layout/activity_detalles.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V14/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_productos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V14/Lactimuu_Prueba/app/src/main/res/layout/activity_images.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V14/Lactimuu_Prueba/app/src/main/res/layout/activity_juego_flappy_bird.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V14/Lactimuu_Prueba/app/src/main/res/layout/activity_menu_juegos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V14/Lactimuu_Prueba/app/src/main/res/layout/activity_placed_order.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V14/Lactimuu_Prueba/app/src/main/res/layout/image_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V15/Lactimuu_Prueba/app/src/main/res/drawable-v24/letter_bg.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V15/Lactimuu_Prueba/app/src/main/res/layout/activity_ahorcados.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V15/Lactimuu_Prueba/app/src/main/res/layout/activity_game.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V15/Lactimuu_Prueba/app/src/main/res/layout/activity_menu_juegos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V15/Lactimuu_Prueba/app/src/main/res/layout/activity_placed_order.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V15/Lactimuu_Prueba/app/src/main/res/layout/letras.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V16/Lactimuu_Prueba/app/src/main/res/drawable/bg_btn.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V16/Lactimuu_Prueba/app/src/main/res/drawable/bg_cell_chessboard.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V16/Lactimuu_Prueba/app/src/main/res/layout/activity_ahorcados.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V16/Lactimuu_Prueba/app/src/main/res/layout/activity_game.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V16/Lactimuu_Prueba/app/src/main/res/layout/activity_juego_flappy_bird.xml" value="0.10208333333333333" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V16/Lactimuu_Prueba/app/src/main/res/layout/activity_menu_juegos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V16/Lactimuu_Prueba/app/src/main/res/layout/activity_triqui_traka.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V16/Lactimuu_Prueba/app/src/main/res/layout/cell.xml" value="0.18854166666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V16/Lactimuu_Prueba/app/src/main/res/layout/fragment_game.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V16/Lactimuu_Prueba/app/src/main/res/layout/fragment_start.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V17/Lactimuu_Prueba/app/src/main/res/drawable/bg_cell_chessboard.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V17/Lactimuu_Prueba/app/src/main/res/drawable/bg_item_table.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V17/Lactimuu_Prueba/app/src/main/res/layout/activity_triqui_traka.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V17/Lactimuu_Prueba/app/src/main/res/layout/cell.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V17/Lactimuu_Prueba/app/src/main/res/layout/fragment_game.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V17/Lactimuu_Prueba/app/src/main/res/layout/fragment_start.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V17/Lactimuu_Prueba/app/src/main/res/layout/item_table.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V18/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V18/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_administrador.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V18/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_sesion.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V18/Lactimuu_Prueba/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V18/Lactimuu_Prueba/app/src/main/res/layout/activity_recuperar_password.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V18/Lactimuu_Prueba/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V18/Lactimuu_Prueba/app/src/main/res/layout/drawer_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V18/Lactimuu_Prueba/app/src/main/res/layout/drawer_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V19/Lactimuu_Prueba/app/src/main/res/layout/activity_estado_clima.xml" value="0.22" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V19/Lactimuu_Prueba/app/src/main/res/layout/activity_placed_order.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_productos.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_producto.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_recomendaciones_clima.xml" value="0.22" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/activity_detalles.xml" value="0.18854166666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/activity_estado_clima.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/activity_images.xml" value="0.18854166666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_administrador.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/activity_mostrar_imagenes_aplicacion.xml" value="0.19010416666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/activity_subir_imagenes.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_imagenes.xml" value="0.18854166666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_imagenes_aplicacion.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/activity_view_all.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/carrito_compras.xml" value="0.18854166666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/image_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/imagenes_aplicacion_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/item_table.xml" value="0.18854166666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/main_fragment.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/productos_recomendados.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/productos_tradicionales.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/ver_imagenes_item.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/ver_pedidos_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/ver_productos_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V20/Lactimuu_Prueba/app/src/main/res/layout/view_all_item.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V21/Lactimuu_Prueba/app/src/main/res/drawable/ic_baseline_people_24.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V21/Lactimuu_Prueba/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V21/Lactimuu_Prueba/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V21/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_productos.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V21/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_producto.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V21/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_administrador.xml" value="0.20102564102564102" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V21/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_imagenes.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V21/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_productos.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V21/Lactimuu_Prueba/app/src/main/res/layout/main_fragment.xml" value="0.20102564102564102" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V21/Lactimuu_Prueba/app/src/main/res/layout/ver_imagen_item.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V21/Lactimuu_Prueba/app/src/main/res/layout/ver_pedidos_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V21/Lactimuu_Prueba/app/src/main/res/layout/ver_productos_item.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V22/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_productos.xml" value="0.34176111595466435" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V22/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_producto.xml" value="0.20102564102564102" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V22/Lactimuu_Prueba/app/src/main/res/layout/activity_imagenes_promocionales.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V22/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_administrador.xml" value="0.20102564102564102" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V22/Lactimuu_Prueba/app/src/main/res/layout/activity_subir_imagenes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V22/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_imagenes.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V22/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_img_act_product.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V22/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_productos.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V22/Lactimuu_Prueba/app/src/main/res/layout/imagenes_promocionales_item.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V22/Lactimuu_Prueba/app/src/main/res/layout/ver_productos_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V22/Lactimuu_Prueba/app/src/main/res/layout/verimg_actproduct_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V23/Lactimuu_Prueba/app/src/main/res/drawable/add_circle.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V23/Lactimuu_Prueba/app/src/main/res/drawable/remove_circle.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V23/Lactimuu_Prueba/app/src/main/res/layout/activity_imagenes_promocionales.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V23/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_administrador.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V23/Lactimuu_Prueba/app/src/main/res/layout/activity_main.xml" value="0.18425925925925926" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V23/Lactimuu_Prueba/app/src/main/res/layout/activity_subir_imagenes.xml" value="0.18425925925925926" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V23/Lactimuu_Prueba/app/src/main/res/layout/main_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V23/Lactimuu_Prueba/app/src/main/res/layout/productos_recomendados.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V23/Lactimuu_Prueba/app/src/main/res/layout/productos_tradicionales.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V24/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_administrador.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V24/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_productos_recomendados_clima.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V24/Lactimuu_Prueba/app/src/main/res/layout/main_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V24/Lactimuu_Prueba/app/src/main/res/layout/productos_recomendados.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V24/Lactimuu_Prueba/app/src/main/res/layout/productos_tradicionales.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V24/Lactimuu_Prueba/app/src/main/res/layout/ver_productos_clima_item.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V25/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_imagenes_promocionales.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V25/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_recomendacion_clima.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V25/Lactimuu_Prueba/app/src/main/res/layout/activity_imagenes_promocionales.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V25/Lactimuu_Prueba/app/src/main/res/layout/activity_subir_imagenes.xml" value="0.18518518518518517" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V25/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_img_clima.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V25/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_productos_recomendados_clima.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V25/Lactimuu_Prueba/app/src/main/res/layout/imagenes_promocionales_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V25/Lactimuu_Prueba/app/src/main/res/layout/main_fragment.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V25/Lactimuu_Prueba/app/src/main/res/layout/ver_img_clima_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V26/Lactimuu_Prueba/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V26/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_productos.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V26/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_producto.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V26/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_productos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V26/Lactimuu_Prueba/app/src/main/res/layout/main_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V26/Lactimuu_Prueba/app/src/main/res/layout/my_cart_item.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V26/Lactimuu_Prueba/app/src/main/res/layout/productos_recomendados.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V26/Lactimuu_Prueba/app/src/main/res/layout/productos_tradicionales.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V26/Lactimuu_Prueba/app/src/main/res/layout/ver_productos_item.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/drawable/add_circle.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/drawable/remove_circle.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_producto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_recomendacion_clima.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_recomendaciones_clima.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/layout/activity_detalles.xml" value="0.22" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio.xml" value="0.18518518518518517" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_administrador.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_productos_recomendados_clima.xml" value="0.1" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/layout/content_main.xml" value="0.18518518518518517" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/layout/drawer_header.xml" value="0.18518518518518517" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/layout/drawer_toolbar.xml" value="0.18518518518518517" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/layout/fragment_start.xml" value="0.18518518518518517" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/layout/main_fragment.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/layout/my_cart_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/layout/productos_recomendados.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/layout/productos_tradicionales.xml" value="0.5" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/layout/ver_productos_clima_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/layout/view_all_item.xml" value="0.18518518518518517" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V27/Lactimuu_Prueba/app/src/main/res/menu/drawer_menu.xml" value="0.5" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V28/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_producto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V28/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_administrador.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V28/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_sesion.xml" value="0.13425925925925927" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V28/Lactimuu_Prueba/app/src/main/res/layout/activity_sugerencias_administrador.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V28/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_productos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V28/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_sugerencias.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V28/Lactimuu_Prueba/app/src/main/res/layout/productos_recomendados.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V28/Lactimuu_Prueba/app/src/main/res/layout/sugerencias_fragment.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V28/Lactimuu_Prueba/app/src/main/res/layout/ver_productos_item.xml" value="0.13425925925925927" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V28/Lactimuu_Prueba/app/src/main/res/layout/ver_sugerencias.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V28/Lactimuu_Prueba/app/src/main/res/layout/ver_sugerencias_item.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V29/Lactimuu_Prueba/app/src/main/res/drawable/ic_baseline_add_circle_24_2.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V29/Lactimuu_Prueba/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V29/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_imagenes_promocionales.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V29/Lactimuu_Prueba/app/src/main/res/layout/activity_buscar_producto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V29/Lactimuu_Prueba/app/src/main/res/layout/activity_buscar_productos.xml" value="0.13518518518518519" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V29/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_imagen_promocional.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V29/Lactimuu_Prueba/app/src/main/res/layout/activity_imagenes_promocionales.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V29/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_administrador.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V29/Lactimuu_Prueba/app/src/main/res/layout/activity_subir_imagenes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V29/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_productos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V29/Lactimuu_Prueba/app/src/main/res/layout/buscar_producto_item.xml" value="0.21" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V29/Lactimuu_Prueba/app/src/main/res/layout/imagenes_promocionales_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V29/Lactimuu_Prueba/app/src/main/res/layout/ver_productos_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/drawable/btn_bg_detailed.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/drawable/ic_home_2.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/acerca_de_nosotros_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_imagenes_promocionales.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_productos.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_usuarios.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_imagen_promocional.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_producto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_usuario.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_detalles.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_estado_clima.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_facebook.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_game.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_imagenes_promocionales.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_admin_gerente.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_administrador.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_sesion.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_sesion_admin_empleado.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_menu_juegos.xml" value="0.22" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa11.xml" value="0.19010416666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa_prueba.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_modo_usuario_empleado.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_para_llevar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_placed_order.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_recuperar_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_subir_imagenes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_triqui_traka.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_imagenes.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_pedidos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_productos.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_sugerencias.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_usuarios.xml" value="0.17222222222222222" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_view_all.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_whatsapp.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/bucar_img_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/buscar_producto_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/carrito_compras.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/categoria_items.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/drawer_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/drawer_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/fragment_game.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/fragment_start.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/imagenes_promocionales_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/item_table.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/letras.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/main_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/manualusuario.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/mesa1_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/mesa2_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/mesa3_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/mesa4_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/mesa5_item.xml" value="0.2" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/mesa6_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/my_cart_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/para_llevar_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/productos_rec_clima_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/productos_recomendados.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/sugerencias_fragment.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/ver_imagen_item.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/ver_img_clima_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/ver_pedidos_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/ver_productos_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/ver_sugerencias_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/ver_usuarios_item.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/ver_usuarios_model.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/view_all_item.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/menu/drawer_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.11197916666666667" />
+        <entry key="..\:/Escritorio/Versiones App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V11/Lactimuu_Prueba/app/src/main/res/drawable/logo lactimuu_background.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V11/Lactimuu_Prueba/app/src/main/res/layout/acerca_de_nosotros_fragment.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V11/Lactimuu_Prueba/app/src/main/res/layout/activity_placed_order.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V11/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_pedidos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V11/Lactimuu_Prueba/app/src/main/res/layout/carrito_compras.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V11/Lactimuu_Prueba/app/src/main/res/layout/drawer_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V11/Lactimuu_Prueba/app/src/main/res/layout/main_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V11/Lactimuu_Prueba/app/src/main/res/layout/manualusuario.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V11/Lactimuu_Prueba/app/src/main/res/layout/my_cart_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V11/Lactimuu_Prueba/app/src/main/res/layout/ver_pedidos_item.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V11/Lactimuu_Prueba/app/src/main/res/layout/view_all_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V11/Lactimuu_Prueba/app/src/main/res/menu/drawer_menu.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V11/Lactimuu_Prueba/app/src/main/res/mipmap-anydpi-v26/logo lactimuu.xml" value="0.2046875" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V11/Lactimuu_Prueba/app/src/main/res/mipmap-anydpi-v26/logo lactimuu_round.xml" value="0.2046875" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V12/Lactimuu_Prueba/app/src/main/res/layout/acerca_de_nosotros_fragment.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V12/Lactimuu_Prueba/app/src/main/res/layout/activity_placed_order.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V12/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_productos.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V12/Lactimuu_Prueba/app/src/main/res/layout/carrito_compras.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V12/Lactimuu_Prueba/app/src/main/res/layout/main_fragment.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V12/Lactimuu_Prueba/app/src/main/res/mipmap-anydpi-v26/logo lactimuu.xml" value="0.2203125" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V13/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_productos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V13/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_producto.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/drawable/logo lactimuu_background.xml" value="0.20185185185185187" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/acerca_de_nosotros_fragment.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/activity_acerca_de_nosotros.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/activity_detalles.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/activity_facebook.xml" value="0.20102564102564102" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio.xml" value="0.16944444444444445" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_administrador.xml" value="0.13645833333333332" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_sesion.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/activity_placed_order.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/activity_view_all.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/carrito_compras.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/categoria_items.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/content_main.xml" value="0.16944444444444445" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/drawer_header.xml" value="0.16944444444444445" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/drawer_toolbar.xml" value="0.16944444444444445" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/inicio_sesion.xml" value="0.18796296296296297" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/main_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/my_cart_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/personas_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/productos_recomendados.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/productos_tradicionales.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/sugerencias_fragment.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/layout/view_all_item.xml" value="0.20102564102564102" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/menu/drawer_menu.xml" value="0.16944444444444445" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.15260416666666668" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/mipmap-anydpi-v26/logo lactimuu.xml" value="0.20185185185185187" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V5/Lactimuu_Prueba/app/src/main/res/mipmap-anydpi-v26/logo lactimuu_round.xml" value="0.20185185185185187" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/acerca_de_nosotros_fragment.xml" value="0.1" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_productos.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_producto.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/activity_detalles.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_administrador.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_sesion.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/activity_mostrar_datos.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/activity_placed_order.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/activity_splash.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/activity_subir_foto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/activity_sugerencias_administrador.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_pedidos.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_product.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_productos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/activity_view_all.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/carrito_compras.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/categoria_items.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/content_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/main_fragment.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/my_cart_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/sugerencias_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/ver_pedidos.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/ver_pedidos_item.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/ver_product_item.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/ver_productos_item.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/ver_sugerencias.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/ver_sugerencias_item.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/layout/view_all_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V6/Lactimuu_Prueba/app/src/main/res/menu/drawer_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V7/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_productos.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V7/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_producto.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V7/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_productos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V7/Lactimuu_Prueba/app/src/main/res/layout/ver_productos_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V8/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_productos.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V8/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_producto.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V8/Lactimuu_Prueba/app/src/main/res/layout/activity_detalles.xml" value="0.33" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V8/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_productos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V8/Lactimuu_Prueba/app/src/main/res/layout/categoria_items.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V8/Lactimuu_Prueba/app/src/main/res/layout/ver_productos_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V8/Lactimuu_Prueba/app/src/main/res/layout/view_all_item.xml" value="0.5" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V9/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_productos.xml" value="0.25833333333333336" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V9/Lactimuu_Prueba/app/src/main/res/layout/activity_detalles.xml" value="0.25" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V9/Lactimuu_Prueba/app/src/main/res/layout/activity_sugerencias_administrador.xml" value="0.26851851851851855" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V9/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_pedidos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V9/Lactimuu_Prueba/app/src/main/res/layout/carrito_compras.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V9/Lactimuu_Prueba/app/src/main/res/layout/my_cart_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V9/Lactimuu_Prueba/app/src/main/res/layout/sugerencias_fragment.xml" value="0.25833333333333336" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V9/Lactimuu_Prueba/app/src/main/res/layout/ver_pedidos_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V9/Lactimuu_Prueba/app/src/main/res/layout/ver_productos_item.xml" value="0.25833333333333336" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V9/Lactimuu_Prueba/app/src/main/res/layout/ver_sugerencias.xml" value="0.25833333333333336" />
+        <entry key="..\:/Escritorio/Versiones Lactimuu/V9/Lactimuu_Prueba/app/src/main/res/layout/view_all_item.xml" value="0.5" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/drawable/account.xml" value="0.1765625" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/drawable/add_circle.xml" value="0.1765625" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/drawable/arrow.xml" value="0.1765625" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/drawable/autorenew.xml" value="0.1765625" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/drawable/border.xml" value="0.1765625" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/drawable/ic_home_fish.xml" value="0.1765625" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/drawable/ic_salad.xml" value="0.1765625" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/drawable/round_shape.xml" value="0.1765625" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/drawable/search_bg.xml" value="0.1765625" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/drawable/search_gb.xml" value="0.1765625" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/drawable/side_nav_bar.xml" value="0.1765625" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio.xml" value="0.20092592592592592" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/layout/activity_main.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/layout/activity_view_all.xml" value="0.21203703703703702" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/layout/activity_view_all2.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/layout/categoria_items.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/layout/content_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/layout/drawer_header.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/layout/drawer_toolbar.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/layout/main_fragment.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/layout/personas_fragment.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/layout/productos_recomendados.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/layout/productos_tradicionales.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/layout/view_all_item.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/menu/drawer_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.23692307692307693" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/Lactimuu_Prueba/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.23692307692307693" />
+        <entry key="..\:/Users/ASUS/Downloads/Lactimuu/V3/Lactimuu_Prueba/app/src/main/res/layout/activity_view_all.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/drawable/search_gb.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/acerca_de_nosotros_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_usuarios.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_imagen_promocional.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_producto.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_usuario.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_detalles.xml" value="0.22" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_imagenes_promocionales.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_administrador.xml" value="0.22" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_sesion.xml" value="0.25" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_manual_usuario_empleado.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_manual_usuario_gerente.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_manual_usuario_rol_cliente.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_manual_usuario_rol_empleado.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_manual_usuario_rol_gerente.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_menu_juegos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa1.xml" value="0.25" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_modo_usuario_empleado.xml" value="0.25" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_para_llevar.xml" value="0.33" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_placed_order.xml" value="0.22" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_recuperar_password.xml" value="0.22" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_triqui_traka.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_productos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_sugerencias.xml" value="0.33" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_usuarios.xml" value="0.33" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/activity_view_all.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/carrito_compras.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/categoria_items.xml" value="0.5" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/fragment_start.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/imagenes_promocionales_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/item_table.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/main_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/manualusuario.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/mesa4_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/my_cart_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/sugerencias_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/ver_sugerencias_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/ver_usuarios_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/layout/view_all_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/menu/menu_empleado.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu v2/Lactimuu_Prueba/app/src/main/res/menu/menu_gerente.xml" value="0.5" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/acerca_de_nosotros_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_imagenes_promocionales.xml" value="0.22" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_productos.xml" value="0.33" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_actualizar_usuarios.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_imagen_promocional.xml" value="0.25" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_producto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_crear_usuario.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_detalles.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_estado_clima.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_game.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_imagenes_promocionales.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_administrador.xml" value="0.25" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_sesion.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_sesion_admin_empleado.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_juego_flappy_bird.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_manual_usuario_rol_cliente.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_menu_juegos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_mesa2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_modo_usuario_empleado.xml" value="0.4399551066217733" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_para_llevar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_placed_order.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_recuperar_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_subir_imagenes.xml" value="0.33" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_triqui_traka.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_imagenes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_img_clima.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_productos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_sugerencias.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_ver_usuarios.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_view_all.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_whatsapp.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/buscar_img_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/buscar_producto_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/carrito_compras.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/categoria_items.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/drawer_header.xml" value="0.22" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/drawer_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/fragment_game.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/fragment_start.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/imagenes_promocionales_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/item_table.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/letras.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/main_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/manualusuario.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/mesa1_item.xml" value="0.25" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/mesa2_item.xml" value="0.25" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/mesa3_item.xml" value="0.33" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/mesa4_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/mesa5_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/mesa6_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/my_cart_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/para_llevar_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/productos_rec_clima_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/sugerencias_fragment.xml" value="0.22" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/ver_imagen_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/ver_img_clima_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/ver_productos_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/ver_sugerencias_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/ver_usuarios_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/view_all_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/Lactimuu_Prueba/app/src/main/res/drawable/btn_bg_detailed.xml" value="0.1265625" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/Lactimuu_Prueba/app/src/main/res/layout-v21/main_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/Lactimuu_Prueba/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/Lactimuu_Prueba/app/src/main/res/layout/categoria_items.xml" value="0.33" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/Lactimuu_Prueba/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/Lactimuu_Prueba/app/src/main/res/layout/discounted_row_items.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/Lactimuu_Prueba/app/src/main/res/layout/drawer_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/Lactimuu_Prueba/app/src/main/res/layout/drawer_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/Lactimuu_Prueba/app/src/main/res/layout/main_fragment.xml" value="0.3217391304347826" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/Lactimuu_Prueba/app/src/main/res/layout/personas_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/Lactimuu_Prueba/app/src/main/res/layout/productos_recomendados.xml" value="0.22" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/Lactimuu_Prueba/app/src/main/res/layout/productos_tradicionales.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/AndroidStudioProjects/Lactimuu_Prueba/app/src/main/res/menu/drawer_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/Desktop/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_administrador.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Sergio Lucas/Desktop/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_inicio_sesion.xml" value="0.33" />
+        <entry key="..\:/Users/Sergio Lucas/Desktop/App Lactimuu/V30/Lactimuu_Prueba/app/src/main/res/layout/activity_recuperar_password.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

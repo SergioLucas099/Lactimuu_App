@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lactimuu_prueba.com.optic.lactimuu_prueba.Menu_Juegos">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/Toolbar_Menu_Juegos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:title="Lactimuu App"
+        app:titleTextColor="@color/white" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="300dp"
+        android:layout_height="102dp"
+        android:background="@drawable/bg_btn"
+        android:backgroundTint="#ED008C"
+        android:onClick="a"
+        android:text="Flappy Bird"
+        android:layout_marginTop="100dp"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Toolbar_Menu_Juegos" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="300dp"
+        android:layout_height="102dp"
+        android:layout_marginTop="40dp"
+        android:onClick="b"
+        android:text="Ahorcados"
+        android:textColor="@color/white"
+        android:background="@drawable/bg_btn"
+        android:backgroundTint="#ED008C"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button7" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="300dp"
+        android:layout_height="102dp"
+        android:layout_marginTop="36dp"
+        android:textColor="@color/white"
+        android:background="@drawable/bg_btn"
+        android:backgroundTint="#ED008C"
+        android:onClick="c"
+        android:text="triqui"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button8" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:text="Juegos desarrollados por el canal de You Tube how to Make Game tutorial"
+        android:textColor="@color/black"
+        android:onClick="LinkJuego"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button9"
+        android:gravity="center_horizontal" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

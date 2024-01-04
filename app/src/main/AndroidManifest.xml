@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lactimuu_prueba">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <activity
+            android:name="com.developers.lactimuu_prueba.ManualUsuarioRolEmpleado"
+            android:exported="false" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.ManualUsuarioEmpleado"
+            android:exported="false" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.ManualUsuarioRolGerente"
+            android:exported="false" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Manual_Usuario_Gerente"
+            android:exported="false" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Manual_Usuario_Rol_Cliente"
+            android:exported="false" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Para_Llevar"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Modo_Usuario_Empleado" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Mesa6"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Modo_Usuario_Empleado" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Mesa5"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Modo_Usuario_Empleado" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Mesa4"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Modo_Usuario_Empleado" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Mesa3"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Modo_Usuario_Empleado" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Mesa2"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Modo_Usuario_Empleado" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Mesa1"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Modo_Usuario_Empleado" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Modo_Usuario_Empleado"
+            android:exported="false" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Actualizar_Usuarios"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Ver_Usuarios" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Ver_Usuarios"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Inicio_Administrador" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Crear_Usuario"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Inicio_Administrador" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Crear_Imagen_Promocional"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Imagenes_Promocionales" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Ver_Sugerencias"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Inicio_Administrador" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Actualizar_Imagenes_Promocionales"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Imagenes_Promocionales" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Imagenes_Promocionales"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Inicio_Administrador" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Ver_Imagenes"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Crear_Producto" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.SubirImagenes"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Ver_Imagenes" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Clases_Clima.Estado_Clima"
+            android:exported="false" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Recuperar_Password"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.InicioSesion" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Clases_triqui_traka.triqui_traka"
+            android:exported="false" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Clases_Ahorcado.GameActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Clases_Flappy_Bird.Juego_Flappy_Bird"
+            android:exported="false" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Menu_Juegos"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Inicio_Administrador" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.ActualizarProductos"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.VerProductos" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.Crear_Producto"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.VerProductos" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.VerProductos"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.Inicio_Administrador" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.PlacedOrderActivity"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.InicioActivity" />
+        <activity android:name="com.developers.lactimuu_prueba.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.developers.lactimuu_prueba.Inicio_Administrador"
+            android:exported="false" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.InicioSesion"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.InicioActivity" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.DetallesActivity"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.ViewAllActivity" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.ViewAllActivity"
+            android:exported="false"
+            android:parentActivityName="com.developers.lactimuu_prueba.InicioActivity" />
+        <activity
+            android:name="com.developers.lactimuu_prueba.InicioActivity"
+            android:exported="false" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

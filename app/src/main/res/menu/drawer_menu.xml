@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="Inicio">
+
+        </item>
+        <item
+            android:id="@+id/acerca_nosotros"
+            android:icon="@drawable/ic_baseline_description_24"
+            android:title="Acerca de la Aplicación">
+
+        </item>
+
+        <item
+            android:id="@+id/ManualUsuario"
+            android:icon="@drawable/ic_account_settings"
+            android:title="Manual Usuario">
+
+        </item>
+
+        <item
+            android:id="@+id/sugerencias"
+            android:icon="@drawable/ic_baseline_message_24"
+            android:title="Sugerencias">
+
+        </item>
+        <item
+            android:id="@+id/carrito"
+            android:icon="@drawable/ic_baseline_local_grocery_store_24"
+            android:title="Carrito de Compras">
+
+        </item>
+    </group>
+    <item android:title="Redes Sociales">
+        <menu>
+            <item
+                android:id="@+id/fa"
+                android:icon="@drawable/facebook"
+                android:title="Facebook">
+            </item>
+            <item
+                android:id="@+id/wa"
+                android:icon="@drawable/whatsapp"
+                android:title="WhatsApp">
+            </item>
+            <item
+                android:id="@+id/in"
+                android:icon="@drawable/instagram"
+                android:title="Instagram">
+            </item>
+        </menu>
+    </item>
+    <item android:title="Administrador">
+        <menu>
+            <item
+                android:id="@+id/sesion"
+                android:icon="@drawable/ic_baseline_person_outline_24"
+                android:title="Inicio de Sesión">
+            </item>
+        </menu>
+    </item>
+
+</menu>

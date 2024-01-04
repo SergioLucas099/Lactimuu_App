@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.lactimuu_prueba.com.optic.lactimuu_prueba.Crear_Usuario">
+
+    <com.github.florent37.shapeofview.shapes.ArcView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:elevation="4dp"
+        app:shape_arc_cropDirection="outside"
+        app:shape_arc_height="20dp"
+        app:shape_arc_position="bottom">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/colorPrimary" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/agregar_usuario"
+            android:layout_gravity="center|top"
+            app:civ_border_width="5dp"
+            app:civ_border_color="#F0F0F0"
+            android:layout_marginTop="50dp"/>
+
+        <TextView
+            android:id="@+id/textViewNameBookingDetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="155dp"
+            android:gravity="center_horizontal"
+            android:text="Crear Usuarios"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imgAtras_AU"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="left|top"
+            android:src="@drawable/ic_back"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="15dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </com.github.florent37.shapeofview.shapes.ArcView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="20dp"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/texto_nombre_user"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Nombre"/>
+
+        <EditText
+            android:id="@+id/texto_email_user"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Correo"
+            android:layout_marginTop="20dp"/>
+
+        <EditText
+            android:id="@+id/texto_contraseña_user"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Contraseña"
+            android:layout_marginTop="20dp"/>
+
+        <Spinner
+            android:id="@+id/spinner_crear_usuario"
+            android:layout_width="wrap_content"
+            android:layout_height="51dp"
+            android:layout_marginTop="20dp"
+            android:entries="@array/Rol_Usuario"/>
+
+        <TextView
+            android:id="@+id/dato_user"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="bottom">
+
+            <Button
+                android:id="@+id/registrarbtn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/bg_btn"
+                android:backgroundTint="#ED008C"
+                android:text="Registrar usuario"
+                android:textColor="@color/white"
+                app:backgroundTint="#ED008C" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

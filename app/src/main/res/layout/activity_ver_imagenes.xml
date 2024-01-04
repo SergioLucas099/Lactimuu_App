@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lactimuu_prueba.com.optic.lactimuu_prueba.Ver_Imagenes">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarvi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:icon="@drawable/ic_baseline_message_24"
+        app:titleTextColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:title="Lactimuu App" >
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="55dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/buscar_img"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:background="@drawable/search_gb"
+            android:drawableLeft="@drawable/ic_baseline_search_24"
+            android:drawablePadding="5dp"
+            android:elevation="8dp"
+            android:hint="Buscar..."
+            android:padding="13dp"/>
+
+        <ImageView
+            android:id="@+id/subir_img"
+            android:layout_width="129dp"
+            android:layout_height="124dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/botonagregar"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/ai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Agregar Imagen"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_buscar_img"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_ver_imagen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.github.florent37.shapeofview.shapes.DiagonalView
+            android:layout_width="410dp"
+            android:layout_height="200dp"
+            android:elevation="4dp"
+            app:shape_diagonal_angle="10"
+            app:shape_diagonal_direction="left"
+            app:shape_diagonal_position="bottom"
+            android:layout_marginTop="55dp">
+
+            <View
+                android:layout_width="500dp"
+                android:layout_height="match_parent"
+                android:background="@color/colorPrimary" />
+
+            <TextView
+                android:id="@+id/textViewNameBookingDetail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Manual de Usuario"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+                android:textStyle="bold"
+                android:layout_margin="30dp"
+                android:gravity="center_horizontal" />
+
+        </com.github.florent37.shapeofview.shapes.DiagonalView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16sp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="150dp"
+                android:gravity="center"
+                android:text="Seleccione el siguiente archivo PDF para visualizar el manual de usuario"
+                android:textColor="@color/black"
+                android:textSize="20sp"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/txtmanual"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:gravity="center"
+            android:text="manual usuario cliente.pdf"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:layout_gravity="center"/>
+
+    </LinearLayout>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:src="@drawable/manual"
+        android:layout_gravity="center|top"
+        app:civ_border_width="5dp"
+        app:civ_border_color="#F0F0F0"
+        android:layout_marginTop="165dp"
+        android:layout_marginRight="210dp"/>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
